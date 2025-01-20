@@ -21,7 +21,7 @@ Logging:
     Default: Information
     Microsoft: Warning
     Microsoft.Hosting.Lifetime: Information
-version: Corporate ACtion Version version 1.1
+version: Corporate ACtion Version YML DEV version 1.1
 ServerConnection:
   Url: localhost
   Port: '8080'
