@@ -8,7 +8,7 @@ Serilog:
   WriteTo:
     - Name: File
       Args:
-        path: 'C:/SAFRA/Corporate Actions/Logs/SNB_Swift_.log'
+        path: 'C:/SAFRA/Wheather_.log'
         rollingInterval: Day
         outputTemplate: >-
           {Timestamp:yyyy-MM-dd HH:mm:ss.fff zzz} [{Level:u3}]
