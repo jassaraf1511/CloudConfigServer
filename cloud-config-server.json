@@ -60,6 +60,8 @@
     "FolderPath": "C:/SAFRA/Corporate Actions/Data/IncomingMt564",
     "FileProcessingFolder": "c:/SAFRA/Processing",
     "FileArchiveFolder": "C:/SAFRA/Corporate Actions/Archive",
+    "FileArchiveFolder": "C:/SAFRA/Corporate Actions/Archive",
+    "IntervalInMinutes": 5,
     "MultiMessageSeparator": [ "$", "|" ]
   },
   "TraceParameters": {
