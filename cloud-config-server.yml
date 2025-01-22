@@ -55,6 +55,8 @@ IncomingSwiftFile:
   FolderPath: 'C:/SAFRA/Corporate Actions/Data/IncomingMt564'
   FileProcessingFolder: 'c:/SAFRA/Processing'
   FileArchiveFolder: 'C:/SAFRA/Corporate Actions/Archive'
+  FileErrorFolder: 'C:/SAFRA/Corporate Actions/Errors'
+  IntervalInMinutes: 5
   MultiMessageSeparator:
     - $
     - '|'
